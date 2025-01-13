@@ -1,0 +1,1 @@
+"The Passer Game" is a Python-based two-player paddle game created using the turtle module. It features a graphical interface with paddles, a bouncing ball, and a score tracker. Players control the paddles to prevent the ball from crossing their respective boundaries, competing to achieve the highest score.
